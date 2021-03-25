@@ -1,6 +1,6 @@
 # Optimal Queries using Active Record
 
-## Learning Goals
+## Learning Goals 
 
 * Use ActiveRecord's AREL library to build optimized queries
 
@@ -58,7 +58,7 @@ they're working to filter the data retrieved from the database before the
 result "gets to Ruby-land."
 
 ## Conclusion
-
+ 
 While it's not necessary to memorize all the chainable methods AREL provides
 ActiveRecord, it's best to know some of the common methods you saw in this
 lab. If you are working in a Rails environment, AREL can make your queries
